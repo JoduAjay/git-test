@@ -1,2 +1,2 @@
 # git-test
-check cmnds
+check cmnds for git
